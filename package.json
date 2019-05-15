@@ -1,0 +1,25 @@
+{
+  "name": "lei-code-validator",
+  "version": "1.0.0",
+  "description": "tool used to validate GLEIF codes",
+  "main": "index.js",
+  "scripts": {
+    "test": "no tests yet"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blandialcani/lei-code-validator.git"
+  },
+  "keywords": [
+    "lei",
+    "gleif",
+    "validator",
+    "code"
+  ],
+  "author": "Blandi Alcani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blandialcani/lei-code-validator/issues"
+  },
+  "homepage": "https://github.com/blandialcani/lei-code-validator#readme"
+}
